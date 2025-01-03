@@ -8,7 +8,7 @@ public class Assignment_ConditionalStatement {
 		String customerName = "John Doe";
 		int creditScore = 720;
 		double income = 55000.0;
-		boolean isEmployed = false;
+		boolean isEmployed = true;
 		double debtToIncomeRatio = 35.0;
 
 		// Checking for creditScore 
