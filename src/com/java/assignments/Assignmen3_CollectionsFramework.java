@@ -148,6 +148,7 @@ public class Assignmen3_CollectionsFramework {
 		productList.add(product1Map);
 		productList.add(product2Map);
 		productList.add(product3Map);
+		
 		//map to store All the list
 		Map<String, List<Map<String, String>>> data = new HashMap<String, List<Map<String, String>>>();
 		data.put("StudentData", studentList);
